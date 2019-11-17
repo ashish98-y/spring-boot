@@ -5,8 +5,11 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
-
+	<packaging>war</packaging>
+<!--
+commit changing jar to war
+<packaging>jar</packaging>
+-->
 	<name>spring-boot</name>
 	<url>http://maven.apache.org</url>
 
